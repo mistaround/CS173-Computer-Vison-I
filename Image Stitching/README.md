@@ -1,0 +1,1 @@
+Using transform matrix derived from matched SIFT feature points from different images to make up a panorama.
